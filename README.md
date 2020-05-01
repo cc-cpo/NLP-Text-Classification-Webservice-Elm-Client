@@ -1,3 +1,8 @@
+## Introduction
+A very simple web client written in **Elm** that can do **NLP News Classification** using a Java **Spring Boot** power backend that was developed as part of a Java User Group presentation in Augsburg.
+
+<img alt="Elm Client for NLP News Classification" src="./docs/nlp-news-sample-ui.png" width="100%" height="auto" />
+
 ## Requirements
 
 * NLP-Text-Classification Webservice v1.0.0 or newer
