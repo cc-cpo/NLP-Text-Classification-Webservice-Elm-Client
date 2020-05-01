@@ -2,3 +2,7 @@
 elm-stuff
 # elm-repl generated files
 repl-temp-*
+# elm live generated index.html
+index.html
+# vscode
+.history/
